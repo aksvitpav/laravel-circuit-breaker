@@ -7,7 +7,7 @@ The Circuit Breaker Pattern is essential for ensuring your software's resilience
 You can find more detailes about this pattern here [Circuit Breaker Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
 ## Installation
 ````
-composer require leyton/laravel-circuit-breaker
+composer require aksvitpav/laravel-circuit-breaker
 ````
 After the installation make sure to publish the assets
 ````
